@@ -9,12 +9,14 @@
 - Update microservice to Java 17, Fix docker image based on Alpine
 - DynamoDb local tests with Testcontainers
 #### Tech Stack: Kotlin, Java, Spring Boot, TypeScript, Nest.js, Kafka, Terraform, AWS Stack, Docker, Maven, DynamoDb
+
 ***
 
 ### Freelance Backend Developer at SD&C GmbH for a customer in the banking sector - 2021/2022
 - Improved software to follow 3-layered architecture & refactoring for cleaner code
 - Implement feature: Editable Email system to notify about the status of the credit lending
 #### Tech Stack: Java, Spring Boot, Docker, MSSQL, Camunda, IBM MQ, Liquibase
+
 ***
 
 ### Backend Engineer at Signavio GmbH - 01/2019 - 12/2020
@@ -24,37 +26,43 @@
 - Deployment of Signavio Process Manager (Dockerized)
 - CI-Migration from Jenkins to CircleCi 
 - Started basic use of Kubernetes and AWS
+
 ***
 
 ### Automation Engineer at Signavio GmbH - 09/2016 - 01/2019
 - Automation of development tasks for 3 engineering teams using Java, Kotlin, Groovy and Gradle as well as Docker, Docker
   Swarm, Gitlab and Jenkins
+
 #### -> Developer tasks
 - Java client lib, UI and API test framework in Kotlin
 - Groovy scripts for job generation
 - Gradle build and release scripts
+
 #### -> DevOps tasks
 - Containerization with Docker
 - Orchestration with Docker-Compose
 - Automated Signavio website deploy and tool updates
+
 ***
 
 ### QA Automation Engineer (Backend) at idealo internet GmbH - 08/2014 – 08/2016
 - Develop complex End-2-End test setup as well as full backend regression tests
 - Automated functional and non-functional tests on Rest API layer in Java and Node.js 
 - BDD with Cucumber
+
 ***
 
 ### Internship in Brazil as software engineer ar Research lab LINCE, „Universidade Federal de São Carlos“ - 07/2012 – 09/2012
 Development of a web application for multimedia-based content with Grails (Java and Groovy), HTML, CSS and JavaScript
+
 ***
 
 ### Internship as software developer at hmmh multimediahaus AG - 09/2010 – 01/2011
  - Software quality in Java projects
  - Continuous integration with Hudson
  - Quality measurement with SonarQube as well as Frontend development with Flash (AS3)
-***
 
+***
 
 ## Skills
 
@@ -97,9 +105,11 @@ Development of a web application for multimedia-based content with Grails (Java 
 ### Master of Science "International studies media informatics“ at Hochschule für Technik und Wirtschaft Berlin - 10/2011 - 06/2014
 - Web development and Mobile (Java, Android, Groovy/Grails, JavaScript, Node.js)
 - Algorithms and image processing in Java
+
 ***
 
 ### Bachelor of Science "International studies media informatics“ at Hochschule Bremen - 09/2007 – 06/2011
 - Focus on Software and web development (computer science 80%)
 - Understanding of UI & UX (Design 20%)
 
+***
