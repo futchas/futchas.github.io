@@ -8,6 +8,7 @@
 - Circuit Breaker and Retry Handler for 3-party APIs + error handling
 - Update microservice to Java 17, Fix docker image based on Alpine
 - DynamoDb local tests with Testcontainers
+
 #### Tech Stack: Kotlin, Java, Spring Boot, TypeScript, Nest.js, Kafka, Terraform, AWS Stack, Docker, Maven, DynamoDb
 
 ***
@@ -15,6 +16,7 @@
 ### Freelance Backend Developer at SD&C GmbH for a customer in the banking sector - 2021/2022
 - Improved software to follow 3-layered architecture & refactoring for cleaner code
 - Implement feature: Editable Email system to notify about the status of the credit lending
+
 #### Tech Stack: Java, Spring Boot, Docker, MSSQL, Camunda, IBM MQ, Liquibase
 
 ***
@@ -53,7 +55,8 @@
 ***
 
 ### Internship in Brazil as software engineer ar Research lab LINCE, „Universidade Federal de São Carlos“ - 07/2012 – 09/2012
-Development of a web application for multimedia-based content with Grails (Java and Groovy), HTML, CSS and JavaScript
+- Development of a web application for multimedia-based content with Grails (Java and Groovy)
+- Frontend using HTML, CSS and JavaScript and a template
 
 ***
 
@@ -73,7 +76,7 @@ Development of a web application for multimedia-based content with Grails (Java 
   </tr>
   <tr>
     <th>Frameworks/Libraries</th>
-    <td>Spring Boot, Kafka, Hibernate, RestEasy ,Guice, Node.js, Nest.js</td>
+    <td>Spring Boot, Kafka, Hibernate, RestEasy, Guice, Node.js, Nest.js</td>
   </tr>
   <tr>
     <th>Database</th>
