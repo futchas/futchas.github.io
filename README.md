@@ -34,13 +34,10 @@
 ### Automation Engineer at Signavio GmbH - 09/2016 - 01/2019
 - Automation of development tasks for 3 engineering teams using Java, Kotlin, Groovy and Gradle as well as Docker, Docker
   Swarm, Gitlab and Jenkins
-
-#### -> Developer tasks
-- Java client lib, UI and API test framework in Kotlin
+- Customize Java client library
+- UI and API test framework in Kotlin
 - Groovy scripts for job generation
 - Gradle build and release scripts
-
-#### -> DevOps tasks
 - Containerization with Docker
 - Orchestration with Docker-Compose
 - Automated Signavio website deploy and tool updates
@@ -99,9 +96,6 @@
     <td>German - mother tongue, English - Advanced, Arabic - moderate</td>
   </tr>
 </table>
-
-***
-
 
 ## Education
 
