@@ -1,6 +1,6 @@
-# Freelance Software Engineer
+# <img src="assets/images/dev.svg" style="vertical-align:-15%"> Freelance Software Engineer
 
-## Work experience
+## <img src="assets/images/work.svg" style="vertical-align:-26%"> Work experience
 
 ### Freelance Java Backend Entwickler at MHP GmbH for Porsche AG - 2022/2023
 - Kafka event stream using AWS Lambda
@@ -9,7 +9,7 @@
 - Update microservice to Java 17, Fix docker image based on Alpine
 - DynamoDb local tests with Testcontainers
 
-#### Tech Stack: Kotlin, Java, Spring Boot, TypeScript, Nest.js, Kafka, Terraform, AWS Stack, Docker, Maven, DynamoDb
+#### <img src="assets/images/coding.svg" style="vertical-align:-25%"> Tech Stack: Kotlin, Java, Spring Boot, TypeScript, Nest.js, Kafka, Terraform, AWS Stack, Docker, Maven, DynamoDb
 
 ***
 
@@ -17,7 +17,7 @@
 - Improved software to follow 3-layered architecture & refactoring for cleaner code
 - Implement feature: Editable Email system to notify about the status of the credit lending
 
-#### Tech Stack: Java, Spring Boot, Docker, MSSQL, Camunda, IBM MQ, Liquibase
+#### <img src="assets/images/coding.svg" style="vertical-align:-25%"> Tech Stack: Java, Spring Boot, Docker, MSSQL, Camunda, IBM MQ, Liquibase
 
 ***
 
@@ -51,7 +51,7 @@
 
 ***
 
-### Internship in Brazil as software engineer ar Research lab LINCE, „Universidade Federal de São Carlos“ - 07/2012 – 09/2012
+### Internship in Brazil as software engineer at Research lab, „Universidade Federal de São Carlos“ - 07/2012 – 09/2012
 - Development of a web application for multimedia-based content with Grails (Java and Groovy)
 - Frontend using HTML, CSS and JavaScript and a template
 
@@ -64,7 +64,7 @@
 
 ***
 
-## Skills
+## <img src="assets/images/skills.svg" style="vertical-align:-48%;margin-right:-7px"> Skills
 
 <table>
   <tr>
@@ -97,7 +97,7 @@
   </tr>
 </table>
 
-## Education
+## <img src="assets/images/education.svg" style="vertical-align:-18%"> Education
 
 ### Master of Science "International studies media informatics“ at Hochschule für Technik und Wirtschaft Berlin - 10/2011 - 06/2014
 - Web development and Mobile (Java, Android, Groovy/Grails, JavaScript, Node.js)
