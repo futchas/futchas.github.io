@@ -6,7 +6,7 @@
 - Kafka event stream using AWS Lambda
 - Spring Boot Secret rotation during runtime
 - Circuit Breaker and Retry Handler for 3-party APIs + error handling
-- Update microservice to Java 17, Fix docker image based on Alpine
+- Update microservice to Java 17, Fix Docker image based on Alpine
 - DynamoDb local tests with Testcontainers
 
 #### <img src="assets/images/coding.svg" style="vertical-align:-25%"> Tech Stack: Kotlin, Java, Spring Boot, TypeScript, Nest.js, Kafka, Terraform, AWS Stack, Docker, Maven, DynamoDb
@@ -93,7 +93,7 @@
   </tr>
   <tr>
     <th>Languages</th>
-    <td>German - mother tongue, English - Advanced, Arabic - moderate</td>
+    <td>German - mother tongue, English - Fluent, Arabic - moderate</td>
   </tr>
 </table>
 
