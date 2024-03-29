@@ -93,7 +93,7 @@
   </tr>
   <tr>
     <th>Languages</th>
-    <td>German - mother tongue, English - Fluent, Arabic - moderate</td>
+    <td>German - native, English - fluent, Arabic - moderate</td>
   </tr>
 </table>
 
