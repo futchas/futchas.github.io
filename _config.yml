@@ -1,4 +1,5 @@
 title: <img src="assets/images/user.svg" style="vertical-align:-28%"> Iyad Al-Sahwi
+logo: /assets/images/photo.jpg
 description: Backend Development in Java and Kotlin, Berlin and Remote
   <br><br>
   <img src="assets/images/external-link.svg" style="vertical-align:-16%">
@@ -11,7 +12,6 @@ description: Backend Development in Java and Kotlin, Berlin and Remote
   <a href="https://github.com/futchas">  
     <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub">
   </a>
-logo: /assets/images/photo.jpg
 github:
   is_user_page: false
 theme: jekyll-theme-minimal
