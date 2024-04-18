@@ -68,7 +68,7 @@
 
 <table>
   <tr>
-    <th>Language/Runtim</th>
+    <th>Language/Runtime</th>
     <td>Java, Kotlin, TypeScript, JavaScript, Bash, Groovy</td>
   </tr>
   <tr>
