@@ -2,7 +2,17 @@
 
 ## <img src="assets/images/work.svg" style="vertical-align:-26%"> Work experience
 
-### Freelance Java Backend Entwickler at MHP GmbH for Porsche AG - 2022/2023
+### Freelance Software Engineer for selected customer, health sector - 09/2023 - 02/2024
+- Extend Backend for new Feature: Rest API endpoint, Logic in Service, Testing with Junit
+- Improving CI/CD Pipeline and Docker image size
+- Setup developer environment
+- Caching for performance
+- 
+#### <img src="assets/images/coding.svg" style="vertical-align:-25%"> Tech Stack: Java 17, Spring Boot 3, AWS, Bash, Docker, Kubernetes, Maven, Gitlab, Postgresql, Redis
+
+***
+
+### Freelance Java Backend Entwickler at MHP GmbH for Porsche AG - 08/2022 - 06/2023
 - Kafka event stream using AWS Lambda
 - Spring Boot Secret rotation during runtime
 - Circuit Breaker and Retry Handler for 3-party APIs + error handling
@@ -13,7 +23,7 @@
 
 ***
 
-### Freelance Backend Developer at SD&C GmbH for a customer in the banking sector - 2021/2022
+### Freelance Backend Developer at SD&C GmbH for a customer in the banking sector - 12/2021 - 02/2022
 - Improved software to follow 3-layered architecture & refactoring for cleaner code
 - Implement feature: Editable Email system to notify about the status of the credit lending
 
