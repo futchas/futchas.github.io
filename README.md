@@ -7,8 +7,8 @@
 - Improving CI/CD Pipeline and Docker image size
 - Setup developer environment
 - Caching for performance
-- 
-#### <img src="assets/images/coding.svg" style="vertical-align:-25%"> Tech Stack: Java 17, Spring Boot 3, AWS, Bash, Docker, Kubernetes, Maven, Gitlab, Postgresql, Redis
+
+#### <img src="assets/images/coding.svg" style="vertical-align:-25%"> Tech Stack: Java 17, Spring Boot 3, Kotlin, AWS, Bash, Docker, Kubernetes, Maven, Gitlab, Postgresql, Redis
 
 ***
 
