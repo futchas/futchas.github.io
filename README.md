@@ -2,7 +2,7 @@
 
 ## <img src="assets/images/work.svg" style="vertical-align:-26%"> Work experience
 
-### Freelance Software Engineer for selected customer, health sector - 09/2023 - 02/2024
+### Freelance Software Engineer for selected customer, health sector <br><img src="assets/images/date-range.svg" style="vertical-align:-20%"> 09/2023 - 02/2024
 - Extend Backend for new Feature: Rest API endpoint, Logic in Service, Testing with Junit
 - Improving CI/CD Pipeline and Docker image size
 - Setup developer environment
@@ -12,7 +12,7 @@
 
 ***
 
-### Freelance Java Backend Entwickler at MHP GmbH for Porsche AG - 08/2022 - 06/2023
+### Freelance Java Backend Entwickler at MHP GmbH for Porsche AG <br><img src="assets/images/date-range.svg" style="vertical-align:-20%"> 08/2022 - 06/2023
 - Kafka event stream using AWS Lambda
 - Spring Boot Secret rotation during runtime
 - Circuit Breaker and Retry Handler for 3-party APIs + error handling
@@ -23,7 +23,7 @@
 
 ***
 
-### Freelance Backend Developer at SD&C GmbH for a customer in the banking sector - 12/2021 - 02/2022
+### Freelance Backend Developer at SD&C GmbH for a customer in the banking sector <br><img src="assets/images/date-range.svg" style="vertical-align:-20%"> 12/2021 - 02/2022
 - Improved software to follow 3-layered architecture & refactoring for cleaner code
 - Implement feature: Editable Email system to notify about the status of the credit lending
 
@@ -31,7 +31,7 @@
 
 ***
 
-### Backend Engineer at Signavio GmbH - 01/2019 - 12/2020
+### Backend Engineer at Signavio GmbH <br><img src="assets/images/date-range.svg" style="vertical-align:-20%"> 01/2019 - 12/2020
 - Feature development, maintenance and bug fixing in Java
 - Performance improvements for Signavio dictionary
 - Update web application from Java 8 to Java 11, Application startup check for database type
@@ -41,7 +41,7 @@
 
 ***
 
-### Automation Engineer at Signavio GmbH - 09/2016 - 01/2019
+### Automation Engineer at Signavio GmbH <br><img src="assets/images/date-range.svg" style="vertical-align:-20%"> 09/2016 - 01/2019
 - Automation of development tasks for 3 engineering teams using Java, Kotlin, Groovy and Gradle as well as Docker, Docker
   Swarm, Gitlab and Jenkins
 - Custom Java client library
@@ -54,20 +54,20 @@
 
 ***
 
-### QA Automation Engineer (Backend) at idealo internet GmbH - 08/2014 – 08/2016
+### QA Automation Engineer (Backend) at idealo internet GmbH <br><img src="assets/images/date-range.svg" style="vertical-align:-20%"> 08/2014 – 08/2016
 - Develop complex End-2-End test setup as well as full backend regression tests
 - Automated functional and non-functional tests on Rest API layer in Java and Node.js 
 - BDD with Cucumber
 
 ***
 
-### Internship in Brazil as software engineer at Research lab, „Universidade Federal de São Carlos“ - 07/2012 – 09/2012
+### Internship in Brazil as software engineer at Research lab, „Universidade Federal de São Carlos“ <br><img src="assets/images/date-range.svg" style="vertical-align:-20%"> 07/2012 – 09/2012
 - Development of a web application for multimedia-based content with Grails (Java and Groovy)
 - Frontend using HTML, CSS and JavaScript and a template
 
 ***
 
-### Internship as software developer at hmmh multimediahaus AG - 09/2010 – 01/2011
+### Internship as software developer at hmmh multimediahaus AG <br><img src="assets/images/date-range.svg" style="vertical-align:-20%"> 09/2010 – 01/2011
  - Software quality in Java projects
  - Continuous integration with Hudson
  - Quality measurement with SonarQube as well as Frontend development with Flash (AS3)
@@ -109,13 +109,13 @@
 
 ## <img src="assets/images/education.svg" style="vertical-align:-18%"> Education
 
-### Master of Science "International studies media informatics“ at Hochschule für Technik und Wirtschaft Berlin - 10/2011 - 06/2014
+### Master of Science "International studies media informatics“ at Hochschule für Technik und Wirtschaft Berlin <br><img src="assets/images/date-range.svg" style="vertical-align:-20%"> 10/2011 - 06/2014
 - Web development and Mobile (Java, Android, Groovy/Grails, JavaScript, Node.js)
 - Algorithms and image processing in Java
 
 ***
 
-### Bachelor of Science "International studies media informatics“ at Hochschule Bremen - 09/2007 – 06/2011
+### Bachelor of Science "International studies media informatics“ at Hochschule Bremen <br><img src="assets/images/date-range.svg" style="vertical-align:-20%"> 09/2007 – 06/2011
 - Focus on Software and web development (computer science 80%)
 - Understanding of UI & UX (Design 20%)
 
