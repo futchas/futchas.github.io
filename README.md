@@ -2,7 +2,7 @@
 
 ## <img src="assets/images/work.svg" style="vertical-align:-26%"> Work experience
 
-### Freelance Software Engineer for selected customer, health sector <br><img src="assets/images/date-range.svg" style="vertical-align:-20%"> 09/2023 - 02/2024
+### Freelance Software Engineer in the health sector <br><img src="assets/images/date-range.svg" style="vertical-align:-20%"> 09/2023 - 02/2024
 - Extend Backend for new Feature: Rest API endpoint, Logic in Service, Testing with Junit
 - Improving CI/CD Pipeline and Docker image size
 - Setup developer environment
