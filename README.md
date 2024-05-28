@@ -16,15 +16,17 @@
 - Kafka event stream using AWS Lambda
 - Spring Boot Secret rotation during runtime
 - Circuit Breaker and Retry Handler for 3-party APIs + error handling
-- Update microservice to Java 17, Fix Docker image based on Alpine
+- Upgrade microservice to Java 17
+- Fix Docker image based on Alpine
 - DynamoDb local tests with Testcontainers
 
 #### <img src="assets/images/coding.svg" style="vertical-align:-25%"> Tech Stack: Kotlin, Java, Spring Boot, TypeScript, Nest.js, Kafka, Terraform, AWS Stack, Docker, Maven, DynamoDb
 
 ***
 
-### Freelance Backend Developer at SD&C GmbH for a customer in the banking sector <br><img src="assets/images/date-range.svg" style="vertical-align:-20%"> 12/2021 - 02/2022
-- Improved software to follow 3-layered architecture & refactoring for cleaner code
+### Freelance Backend Developer at SD&C GmbH - banking sector <br><img src="assets/images/date-range.svg" style="vertical-align:-20%"> 12/2021 - 02/2022
+- Improved software to follow 3-layered architecture
+- Refactoring for cleaner code
 - Implement feature: Editable Email system to notify about the status of the credit lending
 
 #### <img src="assets/images/coding.svg" style="vertical-align:-25%"> Tech Stack: Java, Spring Boot, Docker, MSSQL, Camunda, IBM MQ, Liquibase
@@ -34,7 +36,8 @@
 ### Backend Engineer at Signavio GmbH <br><img src="assets/images/date-range.svg" style="vertical-align:-20%"> 01/2019 - 12/2020
 - Feature development, maintenance and bug fixing in Java
 - Performance improvements for Signavio dictionary
-- Update web application from Java 8 to Java 11, Application startup check for database type
+- Update web application from Java 8 to Java 11
+- Application startup check for database type
 - Deployment of Signavio Process Manager (Dockerized)
 - CI-Migration from Jenkins to CircleCi 
 - Started basic use of Kubernetes and AWS
@@ -42,8 +45,7 @@
 ***
 
 ### Automation Engineer at Signavio GmbH <br><img src="assets/images/date-range.svg" style="vertical-align:-20%"> 09/2016 - 01/2019
-- Automation of development tasks for 3 engineering teams using Java, Kotlin, Groovy and Gradle as well as Docker, Docker
-  Swarm, Gitlab and Jenkins
+- Automation of development tasks for 3 engineering teams using Java, Kotlin, Groovy and Gradle as well as Docker, Gitlab and Jenkins
 - Custom Java client library
 - UI and API test framework in Kotlin
 - Groovy scripts for job generation
@@ -70,7 +72,8 @@
 ### Internship as software developer at hmmh multimediahaus AG <br><img src="assets/images/date-range.svg" style="vertical-align:-20%"> 09/2010 – 01/2011
  - Software quality in Java projects
  - Continuous integration with Hudson
- - Quality measurement with SonarQube as well as Frontend development with Flash (AS3)
+ - Quality measurement with SonarQube
+ - Frontend development with Flash (AS3)
 
 ***
 
@@ -78,28 +81,32 @@
 
 <table>
   <tr>
-    <th>Language/Runtime</th>
+    <th>Programming</th>
     <td>Java, Kotlin, TypeScript, JavaScript, Bash, Groovy</td>
   </tr>
   <tr>
-    <th>Frameworks/Libraries</th>
+    <th>Framework</th>
     <td>Spring Boot, Kafka, Hibernate, RestEasy, Guice, Node.js, Nest.js</td>
   </tr>
   <tr>
-    <th>Database</th>
-    <td>MongoDB, MySql and DynamoDB </td>
-  </tr>
-  <tr>
-    <th>Method</th>
-    <td>Agile development: Scrum and Kanban</td>
-  </tr>
-  <tr>
     <th>Environment</th>
-    <td>Linux Ubuntu/Mint/Debian, AWS, IntelliJ, Android</td>
+    <td>Linux Ubuntu/Mint/Debian, AWS, IntelliJ, Github, Gitlab, Android</td>
   </tr>
   <tr>
     <th>DevOps</th>
     <td>Docker, Terraform, Jenkins, AWS Codebuild, Ansible, Kubernetes </td>
+  </tr>
+  <tr>
+    <th>Observability</th>
+    <td>Grafana, Elasticsearch, Kibana, Logstash, Apache Spark </td>
+  </tr>
+  <tr>
+    <th>Database</th>
+    <td>MongoDB, MySql, Postgresql and DynamoDB </td>
+  </tr>
+  <tr>
+    <th>Method</th>
+    <td>Agile development: Scrum and Kanban</td>
   </tr>
   <tr>
     <th>Languages</th>
