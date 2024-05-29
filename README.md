@@ -109,8 +109,11 @@
     <td>Agile development: Scrum and Kanban</td>
   </tr>
   <tr>
-    <th>Languages</th>
-    <td>German - native, English - fluent, Arabic - moderate</td>
+    <th style="vertical-align:top">Languages</th>
+    <td>German - native <br>
+        English - fluent <br>
+        Arabic - moderate
+    </td>
   </tr>
 </table>
 
