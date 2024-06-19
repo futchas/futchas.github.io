@@ -109,6 +109,10 @@
     <td>Agile development: Scrum and Kanban</td>
   </tr>
   <tr>
+    <th>Collaboration</th>
+    <td>Jira, Confluence, GitHub Issues, Notion</td>
+  </tr>
+  <tr>
     <th style="vertical-align:top">Languages</th>
     <td>German - native <br>
         English - fluent <br>
