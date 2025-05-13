@@ -2,6 +2,16 @@
 
 ## <img src="/assets/images/work.svg" style="vertical-align:-26%"> Work experience
 
+### Freelance Backend Engineer at DVC - energy sector <br><img src="/assets/images/date-range.svg" style="vertical-align:-20%"> 05/2024 - Present
+- Focus on Backend Development from API to database
+- Create new endpoint, implement logic and persist with JPA
+- Edit and improve existing code (more maintainable)
+- Upgrade Spring Boot, Hibernate, Jackson, Kotlin etc
+
+#### <img src="/assets/images/coding.svg" style="vertical-align:-25%"> Tech Stack: Kotlin, Spring Boot 3, OpenShift, Gitlab, DB2, Gradle, Docker
+
+***
+
 ### Freelance Software Engineer in the health sector <br><img src="/assets/images/date-range.svg" style="vertical-align:-20%"> 09/2023 - 02/2024
 - Extend Backend for new Feature: Rest API endpoint, Logic in Service, Testing with Junit
 - Improving CI/CD Pipeline and Docker image size
