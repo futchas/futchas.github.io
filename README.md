@@ -2,7 +2,7 @@
 
 ## <img src="/assets/images/work.svg" style="vertical-align:-26%"> Work experience
 
-### Freelance Backend Engineer at DVC - energy sector <br><img src="/assets/images/date-range.svg" style="vertical-align:-20%"> 05/2024 - Present
+### Freelance Backend Engineer at DVC - energy sector <br><img src="/assets/images/date-range.svg" style="vertical-align:-20%"> 07/2024 - Present
 - Focus on Backend Development from API to database
 - Create new endpoint, implement logic and persist with JPA
 - Edit and improve existing code (more maintainable)
